@@ -21,5 +21,3 @@
 | add    | 풀이.md 업로드 |
 | update | md 파일 수정시 |
 | remove | md 파일 삭제시 |
-
-test
